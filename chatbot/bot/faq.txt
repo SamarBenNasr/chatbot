@@ -1,0 +1,38 @@
+Q: À quoi sert l’application de gestion des tâches des employés ?  
+A: L’application permet d’organiser, d’attribuer et de suivre les tâches des employés, tout en facilitant la collaboration et le suivi des performances en entreprise.
+
+Q: Comment créer une nouvelle tâche dans l’application ?  
+A: Vous pouvez créer une tâche depuis le tableau de bord en cliquant sur "Nouvelle tâche", puis renseigner le titre, la description, la date limite, la priorité et l’attribuer à un ou plusieurs employés.
+
+Q: Peut-on attribuer automatiquement des tâches aux employés ?  
+A: Oui, un module d’IA attribue automatiquement les tâches en fonction des compétences des employés, de leur charge de travail actuelle et des délais.
+
+Q: Comment les employés peuvent-ils visualiser leurs tâches ?  
+A: Les tâches sont accessibles sous forme de liste ou affichées dans un calendrier pour une meilleure organisation visuelle.
+
+Q: Est-il possible de laisser des commentaires ou de partager des fichiers sur une tâche ?  
+A: Oui, chaque tâche dispose d’un espace dédié aux commentaires et au partage de fichiers pour faciliter la collaboration entre les membres de l’équipe.
+
+Q: Comment fonctionne la reconnaissance faciale pour l’authentification ?  
+A: Lors de la connexion, l’utilisateur peut activer l’authentification faciale. Le système analyse les traits du visage à l’aide d’un modèle de reconnaissance pour identifier l’utilisateur.
+
+Q: Est-ce que l’application envoie des notifications ?  
+A: Oui, les utilisateurs reçoivent des notifications en temps réel lorsqu’une tâche leur est attribuée, modifiée ou commentée.
+
+Q: Peut-on suivre la progression des tâches dans un tableau de bord ?  
+A: Un tableau de bord interactif permet de visualiser l’état d’avancement des tâches par employé, par projet ou par équipe.
+
+Q: Comment le système évalue-t-il la productivité des employés ?  
+A: Le système génère des rapports automatiques basés sur les tâches complétées, les délais respectés, et les interactions de collaboration.
+
+Q: Qui peut accéder aux informations des autres employés ?  
+A: Seuls les administrateurs ou responsables de projet ont accès aux informations complètes des autres employés. Chaque employé voit uniquement ses propres tâches.
+
+Q: Est-ce que l’application prend en charge la gestion des priorités ?  
+A: Oui, chaque tâche peut être marquée avec un niveau de priorité (basse, moyenne, haute, urgente) pour aider à mieux organiser les plannings.
+
+Q: Est-il possible de suivre le temps passé sur chaque tâche ?  
+A: Une fonctionnalité de chronomètre ou de saisie manuelle du temps est disponible pour mesurer la durée réelle passée sur chaque tâche.
+
+Q: Peut-on générer un rapport global sur l'activité de l'équipe ?  
+A: Oui, l’administrateur peut exporter des rapports mensuels ou hebdomadaires avec les performances globales de l’équipe.
