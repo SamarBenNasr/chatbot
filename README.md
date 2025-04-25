@@ -7,7 +7,7 @@ Description
 
 This chatbot is designed to provide interactive conversations with users. It integrates an AI-powered RAG model to retrieve relevant information and generate natural, context-aware responses. It has been implemented using Django for the backend and utilizes Hugging Face models to enhance its conversational abilities.
 
-#Key Features:
+Key Features:
 
 RAG-based conversational AI powered by Hugging Face
 
