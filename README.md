@@ -3,7 +3,7 @@ Chatbot is an intelligent chatbot built with Django and integrated with a Retrie
 
 
 
-#Description
+Description
 
 This chatbot is designed to provide interactive conversations with users. It integrates an AI-powered RAG model to retrieve relevant information and generate natural, context-aware responses. It has been implemented using Django for the backend and utilizes Hugging Face models to enhance its conversational abilities.
 
@@ -16,14 +16,14 @@ Web interface for easy user interaction
 Customizable conversation flows to handle various types of user input
 
 
-#Features
+Features
 
 Retrieval-Augmented Generation: The chatbot uses the RAG model to retrieve relevant information from external sources to enhance the quality of responses.
 
 Interactive web interface: Chat with the bot directly via the web interface with easy-to-follow conversations.
 
 
-#How It Works
+How It Works
 
 The chatbot integrates the RAG (Retrieval-Augmented Generation) method using Hugging Face models to improve the conversational quality. Here's how it works:
 
